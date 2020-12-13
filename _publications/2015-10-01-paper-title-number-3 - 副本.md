@@ -3,7 +3,7 @@ title: "At the door of the house, see the famous doctor: The innovative explorat
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the leadership emergence, which is under review.'
-date: 2019
+date: 2019-10-10
 venue: 'China Management Case-sharing Center'
 
 ---
