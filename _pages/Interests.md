@@ -15,17 +15,17 @@ redirect_from:
 
 ### Malaysia
 
-![](images/image1.jpg)
+![image1](images/image1.JPG)
 
 
 
-![](images/image2.jpg)
+![image2](images/image2.JPG)
 
 
 
 ### Singapore
 
-![image5](images/image5.jpg)
+![image5](images/image5.JPG)
 
 
 
