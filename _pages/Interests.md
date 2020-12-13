@@ -13,27 +13,27 @@ redirect_from:
 
 #### - Malaysia
 
-“image2.jpg“
+![image1](C:\Users\Huang\Documents\GitHub\2quanjun7170.github.io\images\image1.JPG)
 
 
 
-"image1.jpg"
+![image2](C:\Users\Huang\Documents\GitHub\2quanjun7170.github.io\images\image2.JPG)
 
 
 
 #### - Singapore
 
-"image4.jpg"
+![image4](C:\Users\Huang\Documents\GitHub\2quanjun7170.github.io\images\image4.JPG)
 
 
 
-"image5.jpg"
+![image5](C:\Users\Huang\Documents\GitHub\2quanjun7170.github.io\images\image5.JPG)
 
 
 
 #### - Japan
 
-"image3.jpg"
+![image3](C:\Users\Huang\Documents\GitHub\2quanjun7170.github.io\images\image3.jpg)
 
 
 
@@ -45,4 +45,4 @@ redirect_from:
 
 - 剣道は生涯の練習です
 
-  "kendo.jpg"
+  ![kendo](C:\Users\Huang\Documents\GitHub\2quanjun7170.github.io\images\kendo.jpg)
