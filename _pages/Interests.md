@@ -1,13 +1,12 @@
 ---
 layout: archive
 title: "Interests"
-permalink: /interest/
+permalink: /interests/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.interest %}
+{% for post in site.interests reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
