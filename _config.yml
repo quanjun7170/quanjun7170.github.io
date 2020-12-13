@@ -55,21 +55,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
 
 # Analytics
 analytics:
@@ -80,15 +65,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Yiming HUANG Claire"
+  avatar           : "cat.jpg"
+  bio              : "Master of Arts in Management, Business Administration, Business School, Nanjing University"
+  location         : "Nanjing, Jiangsu Province China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "Huangyiming1998@163.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +80,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "quanjun7170"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yiming-huang-7a8346192/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -209,10 +192,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _education
   - scope:
       path: ""
-      type: teaching
+      type: education
     values:
       layout: single
       author_profile: true
@@ -227,19 +210,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _experience
   - scope:
       path: ""
-      type: portfolio
+      type: experience
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _workingprojects
   - scope:
       path: ""
-      type: talks
+      type: workingprojects
     values:
       layout: talk
       author_profile: true
