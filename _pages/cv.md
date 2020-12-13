@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-Bachelor of Arts in Management, Tianjin University **(TJU)**, 2020
-Visiting student, Nanyang Technological University **(NTU)**, 2020
-Master of Arts in Management, Nanjing University **(NJU)**, 2023(expected)
+- Bachelor of Arts in Management, Tianjin University **(TJU)**, 2020
+- Visiting student, Nanyang Technological University **(NTU)**, 2020
+- Master of Arts in Management, Nanjing University **(NJU)**, 2023(expected)
 
 
 
