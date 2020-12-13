@@ -34,9 +34,8 @@ Awards
 * Merit Student of Tianjin University (awarded for outstanding overall performance) 
 * Excellent Student Leader of Tianjin University 
 
+# **Extracurricular and Community Activities**
 
-Activities
-======
 * CIAV-ISCEAH 2019 international conference and annual meeting, **Volunteer**
 * China Sina Microblog, **Intern**
 * Tianjin University New Media Center, **Chairman**
