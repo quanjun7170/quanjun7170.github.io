@@ -1,39 +1,37 @@
 ---
-layout: archive
+permalink: /
 title: "Interests"
-permalink: /interests/
+excerpt: "About me"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /interests/
 ---
-
-{% include base_path %}
 
 ### Traveling
 
 #### - Malaysia
 
-![image1](C:\Users\Huang\Documents\GitHub\2quanjun7170.github.io\images\image1.JPG)
+![image1](/images/image1.jpg)
 
 
 
-![image2](C:\Users\Huang\Documents\GitHub\2quanjun7170.github.io\images\image2.JPG)
+![image2](/images/image2.jpg)
 
 
 
 #### - Singapore
 
-![image4](C:\Users\Huang\Documents\GitHub\2quanjun7170.github.io\images\image4.JPG)
+![image4](/images/image4.jpg)
 
 
 
-![image5](C:\Users\Huang\Documents\GitHub\2quanjun7170.github.io\images\image5.JPG)
+![image5](/images/image5.jpg)
 
 
 
 #### - Japan
 
-![image3](C:\Users\Huang\Documents\GitHub\2quanjun7170.github.io\images\image3.jpg)
+![image3](/images/image3.jpg)
 
 
 
@@ -45,4 +43,4 @@ redirect_from:
 
 - 剣道は生涯の練習です
 
-  ![kendo](C:\Users\Huang\Documents\GitHub\2quanjun7170.github.io\images\kendo.jpg)
+  ![kendo](/images/kendo.jpg)
