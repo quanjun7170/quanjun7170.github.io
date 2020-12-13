@@ -10,7 +10,7 @@ locale                   : "en-EN"
 title                    : "Yiming HUANG Claire / Academic"
 title_separator          : "-"
 name                     : &name "Yiming HUANG Claire"
-description              : &description "personal description"
+description              : &description " Explore a new world"
 url                      : https://quanjun7170.github.io/ 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "quanjun7170/quanjun7170.github.io"
@@ -67,11 +67,10 @@ analytics:
 author:
   name             : "Yiming HUANG Claire"
   avatar           : "cat.jpg"
-  bio              : "Master of Arts in Management, Business Administration, Business School, Nanjing University"
+  bio              : "Master of Arts in Management, Business Administration, Business School,
+  Nanjing University"
   location         : "Nanjing, Jiangsu Province China"
   employer         :
-  pubmed           : 
-  googlescholar    : 
   email            : "Huangyiming1998@163.com"
   uri              :
   bitbucket        :
