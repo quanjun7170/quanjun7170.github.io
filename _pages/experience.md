@@ -48,7 +48,7 @@ Research Assistant
 
   
 
-Activities
+**Extracurricular and Community Activities**
 ======
 * CIAV-ISCEAH 2019 international conference and annual meeting, **Volunteer**
 * China Sina Microblog, **Intern**
