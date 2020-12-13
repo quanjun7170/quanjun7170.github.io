@@ -1,11 +1,17 @@
 ---
-permalink: /
+​---
+layout: archive
 title: "Interests"
-excerpt: "About me"
+permalink: /interests/
 author_profile: true
-redirect_from: 
-  - /interests/
+redirect_from:
+  - /resume
+
+​---
+
 ---
+
+{% include base_path %}
 
 ### Traveling
 
