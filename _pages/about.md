@@ -22,3 +22,4 @@ With a passion for research, I keep being diligent and hard-working, and was for
 
 In addition to my previous research experience, other areas that interest me stem from my goal of exploring the employees’ behaviors in multicultural context and the dark sides of characteristics and leaderships. Now I am participating in a project sponsored by B corps China and studying different institutions. And I also have some research ideas about the **female leader, dark sides of some employees’ behaviors and etc.**, and plan to study them in the future. 
 
+![editing-talk](C:\Users\Huang\Documents\GitHub\2quanjun7170.github.io\images\editing-talk.png)
