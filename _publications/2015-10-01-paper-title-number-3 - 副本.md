@@ -1,10 +1,10 @@
 ---
-title: "Take a ‘Selfie’ – Examining How Leaders Emerge from Leader Self-Awareness and Follower Self-Leadership"
+title: "At the door of the house, see the famous doctor: The innovative exploration of Good Doctor Online’s business model."
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the leadership emergence, which is under review.'
-date: 2020-10-01
-venue: 'Under review'
+date: 2019
+venue: 'China Management Case-sharing Center'
 
 ---
-Recommended citation: Bracht, E. M., Avolio, B. J., Keng-Highberger, F. T., & **Huang, Y**. Take a ‘Selfie’ – Examining How Leaders Emerge from Leader Self-Awareness and Follower Self-Leadership. 
+Recommended citation: Li, X. **Huang, Y**. Shi, X. & Quan, Z. (2019) At the door of the house, see the famous doctor: The innovative exploration of *Good Doctor Online*’s business model. *China Management Case-sharing Center.*

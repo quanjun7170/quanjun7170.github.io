@@ -1,10 +1,10 @@
 ---
-title: "Take a ‘Selfie’ – Examining How Leaders Emerge from Leader Self-Awareness and Follower Self-Leadership"
+title: "The Dark Side of Calling? The Negative Effect of Living a Calling on Organizational Citizenship Behavior"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the leadership emergence, which is under review.'
-date: 2020-10-01
-venue: 'Under review'
+excerpt: 'This paper is about the dark side of calling, and will be published in Jan, 2020.'
+date: 2021
+venue: 'Accepted'
 
 ---
-Recommended citation: Bracht, E. M., Avolio, B. J., Keng-Highberger, F. T., & **Huang, Y**. Take a ‘Selfie’ – Examining How Leaders Emerge from Leader Self-Awareness and Follower Self-Leadership. 
+Recommended citation: Li, Y. **Huang, Y.** Wang, Z. & Pan, J. (Accepted) The Dark Side of Calling? The Negative Effect of Living a Calling on Organizational Citizenship Behavior. *Human Resources Development of China.* (Top Chinese management journal, in Chinese)
