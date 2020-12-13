@@ -16,6 +16,8 @@ Visiting student, Nanyang Technological University **(NTU)**, 2020
 Master of Arts in Management, Nanjing University **(NJU)**, 2023(expected)
 
 
+
+
 Professional experience
 ======
 **Mar. 2020 - Present     B Impact Assessment (BIA) China Project**
@@ -73,7 +75,7 @@ Activities
 * China NetEase, **Intern**
 
 
-Addition
+Additional Information
 ======
 * **Computer Skills**: SPSS, R, AMOS, Polynomial regression, Qualtrics, MS Office and Adobe InDesign
 * **Interests**: Traveling, photography, watching films and kendo
