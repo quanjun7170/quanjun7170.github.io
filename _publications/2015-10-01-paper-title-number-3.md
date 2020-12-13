@@ -3,7 +3,7 @@ title: "Take a ‘Selfie’ – Examining How Leaders Emerge from Leader Self-Aw
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the leadership emergence, which is under review.'
-date: 2020-10-01
+date: 2021-10-01
 venue: 'Under review'
 
 ---
