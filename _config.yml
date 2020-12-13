@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-EN"
-title                    : "Huang Claire/ Academic"
+title                    : "Yiming HUANG Claire / Academic"
 title_separator          : "-"
-name                     : &name "Yiming Huang Claire"
+name                     : &name "Yiming HUANG Claire"
 description              : &description "personal description"
 url                      : https://quanjun7170.github.io/ # the base hostname & protocol for your site e.g. "https://quanjun7170.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
