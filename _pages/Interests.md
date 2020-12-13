@@ -1,52 +1,47 @@
 ---
-​---
+
+
 layout: archive
-title: "Interests"
+title: ""
 permalink: /interests/
 author_profile: true
 redirect_from:
   - /resume
-
-​---
-
 ---
 
 {% include base_path %}
-
-### Traveling
-
-#### - Malaysia
-
-![image1](/images/image1.jpg)
+## Travel
 
 
+### Malaysia
 
-![image2](/images/image2.jpg)
+![](images/image1.jpg)
 
 
 
-#### - Singapore
-
-![image4](/images/image4.jpg)
+![](images/image2.jpg)
 
 
 
-![image5](/images/image5.jpg)
+### Singapore
+
+![image5](images/image5.jpg)
 
 
 
-#### - Japan
-
-![image3](/images/image3.jpg)
+![image4](images/image4.JPG)
 
 
 
-### Kendo
+### Japan
 
-- I'm studying kendo now, a kind of Japanese sports.
+![image3](images/image3.jpg)
 
-- Practicing Kendo is very hard, but I believe I can be sustained stick to it.
 
+
+## Kendo
+- I'm studying Kendo now, a Japanes sports.
+- Practicing Kendo is very hard, but I think I could stick to it.
 - 剣道は生涯の練習です
 
-  ![kendo](/images/kendo.jpg)
+ ![kendo](images/kendo.jpg)
