@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 - **Leader prototypicality  Perception**
-- ** Mindfulness (RA)**
+- **Mindfulness (RA)**
 
