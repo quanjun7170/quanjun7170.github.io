@@ -10,7 +10,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-## Travel
+Travel
+=======
 
 
 ### Malaysia
@@ -39,7 +40,8 @@ redirect_from:
 
 
 
-## Kendo
+Kendo
+=======
 - I'm studying Kendo now, a Japanes sports.
 - Practicing Kendo is very hard, but I think I could stick to it.
 - 剣道は生涯の練習です
